@@ -1,0 +1,12 @@
+Calendar
+	Spring
+	Summer
+	Winter
+	Fall
+Factions
+	Church of the Statistical Anomaly
+		Gets advantage on all dex, cha, and wis rolls
+Species
+	Human
+	The Tyh
+		Flying Humans

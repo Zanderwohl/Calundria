@@ -1,0 +1,45 @@
+-The Republic of Egalia
+	Location: Continent of Crossea
+	Ah, the Republic of Egalia - that Grand Old Country. Actually, Egalia is one of the newer countries of the Occident, currently celebrating its centennial as the host of the 1288 World's Fair. On its east cost shine glittering port cities, and pushing west is the frontier of go-getters and landstakers. A wonder of technology and industry, its access to many natural resources puts it ahead of its peers in the Midlands and Southlands.
+	Cities: Laodicea*, Yorkmere, Perth's Landing, Hillsdown, Upper Hillsdown, Overbrook, Manayunk
+	Regions: The Frontier, Keystone Corridor
+
+-Wynnewood
+	Location: Isles of Greenewood, west of Midlands
+	Once the predominant imperial power, Wynnewood sits more humbly in the Occident than in centuries past. Still boasting an impressive trade and navy fleet, Wynnewood also operates the Transoceaninc Arial Cable Railway which connects Narberth to its mainland neighbors in the midlands and extends far over the ocean to Egalia. Wynnewood's own land has largely been stripped of natural resources, leaving its population to work predominantly in factories and artisan trades, transforming its raw imports to valuable exports.
+	Cities: Narberth*, Kensington, Bala Cynwyd, Paoli, Bryn Mawr
+	
+-The Kingdom of Midea
+	Location: Far Southlands
+	Midea boasts a long and storied history as the oldest surviving empire on Earth. It is still ruled by an Empress, said to be many thousands of years old, but she rarely makes public appearances, and may be no more than myth. Midea controls much of the surrounding region in the Far Southlands, and serves as a rail hub for these smaller vassal states. With military might, social castes, and complex etiquette, Midea enjoys the reputation it deliberately builds.
+	Cities: Caedmon*, Addison, Alcott, Thane, Trent
+	Regions: Capital Mountain, Foothills, Eastbank
+	
+-The Rhineland
+	Location: Southlands and Midlands, east of Midea
+	The Rhineland is a largely contested area between Midea and Sutton. While both nations have conflicting claims to different towns, it is ungoverned in practice. Neither nation has the resources to enforce their rule in this largely unindustrialized and rural area. What influence they have is economic and cultural in the form of trade via railways that extend into the space between nations.
+	Cities: Hem Harfath, Har Gilmor, Har Lutha, Athrand, Allendale, Beaverdale
+	Regions: The Plains, North Forests
+	
+-Sutton
+	Location: Midlands, east of Rhineland
+	Strung in electrical wire and crossed by rail and road, there is no center to Sutton. Its open borders and busy trade don't depend on any one principle; like everything in Sutton, there is plurality. Though prolific in adoption to technology, the nation still hasn't become metropolitan; small urban centers serve their still-substantial farming commnities. Everywhere one goes, slight variation is underscored by the simple, straightforward sensibilities of the Sutt people. Whether a beehive or a machine, Sutton seems in no rush to join the forefront, content to adopt the wider world's technology on its own comfortable schedule.
+	Cities: Gleann Seileach, Bunree, Corran (The Index Finger), Allt Meurach
+	Regions: Ree (Communities along River Ree), Linnhe Dubh, Aberdeen
+
+
+-Laodicea
+	Location: Egalia
+	Glittering before you (in the sunlight | in the starlight) is the City of Keystones: Laodicea. The golden-silver towers soar over busy orthagonal streets. Carriages clatter over the cobbled streets in the old city. Streetcars chime and trundle through busy neighborhoods. Factories billow smog into the sky and university students mill about on the quad.
+	Through the center of the city runs the meandering Colossus River, a cold source from which the city's water supply is drawn. The bubbling Hiera River originates from hot springs west of the city, from which are drawn the rejuvinating waters of the renowned healing houses. The two meet at the southern tip of the city, mixing into a lukewarm murky harbor full of sediment and minerals. Steamers come from across the sea and up the coast to trade here.
+	Dockworkers unload ships. Egalia is the largest port city on the east coast of Egalia. It is also one of the older cities in the nation, hosting many historical sites and points of tourist interest. The Transoceaninc Arial Cable Railway terminates here, at the Tower of the Gods.
+	A quarter mile high over the city, the Tower of the Gods, a giant art deco syscraper, rests its golden crown of the cities four deities. A long sloping cable connects the tower to the first substation for the arial railway before it stretches out of the harbor into the sea.
+	Population: 3.4 Million
+
+-Yorkmere
+	Location: Egalia
+	A large town on the Ithsmus between the mainland and Perth's Landing. Cramped and lively, this city is a center for arts and culture. It is also a prominent destination for immigrants into Egalia.
+	Population: 1.1 Million
+
+
+Rivers: Allendale, Beaverdale
