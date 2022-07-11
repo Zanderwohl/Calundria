@@ -7,7 +7,7 @@ Factions
 	Church of the -Statistical Anomaly
 		Gets advantage on all dex, cha, and wis rolls
 	-Milan Milonopolis -Syndicate
-		A powerful trade faction, the Syndicate is known by its iconic M&M logo.
+		A powerful trade faction, the Syndicate is known by its iconic M&Co. logo.
 Species
 	Human
 	The Tyh
