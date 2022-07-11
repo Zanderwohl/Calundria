@@ -15,3 +15,15 @@ After a spat with GLENN DIXON regarding the safety of her business, the legal fe
 
 Foe: Glenn Dixon
 	City Magic Inspector (for Laodicea)
+
+Friends:
+	Merchants:
+		Brenda Freeman
+			Brenda is a silversmith on Jeweler's row who lost a hand after accidentally pouring silver over it. She still works as she can with one hand, but cannot run her own shopfront as the rich patrons find her injury unsightly. She cannot afford the magic healing required to restore her hand, but is working on a mechanical replacement.
+	Irregulars:
+		Frank Maxwell
+			Former investment banker who was caught in corperate espionage, Frank now day drinks and observes. Very closely. Having an eye for detail (actually, an Eye of Scrying) you can usually find something interesting goings-on from Frank... so long as he hasn't been using all his spell slots being a peeping tom...
+		Clive Quinn
+			Having lost his arm in a bandsaw accident at a factory, Clive can no longer work. He runs a good scheme reselling basic goods, running them up and down town depending on rush hours and lunch breaks. He can sell you a bridge. Or sell you enough alcohol to put you under a bridge for a while...
+		Lou Price
+			Loud, big, and strong, Lou is actually kind of a sweet guy. He's got a strict sense of justice and hot temper, which can get him into trouble. He's in and out of the local police station weekly, but they find him charming enough the charges never seem to quite stick.
