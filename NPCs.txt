@@ -4,3 +4,26 @@ Wynnewood Royal Exploratory Fleet
 		Human
 	Lindi Lutha
 		Tiefling
+
+Jeweler's Row
+	Brenda Freeman
+		Blacksmithy lady
+		Silversmith. Built like a barrel. One missing hand, replaced by a silver prosthetic.
+		"402 James Tower"
+	Silas Everett
+		Think "Bert from 'Mary Poppins'"
+		"You see a human man walk through the door, in greying brown hair and wireframe glasses. He wears clothes like a jeweler, the only thing missing being his apron. He has completely average height for a human man. Madrigal, being the average height for an elven woman, is exactly the same height."
+		Knows Eurydine
+		Knows that:
+			Dr. Calvaria did horrifying things
+				"He was the one who came up with the Cause-Fear-Dust from the Last War."
+				"I saw people... wasted away, thin as sticks, naked in the dust. You'd throw food in and they'd scatter like a pack of rats. Afraid even to eat."
+				"He had this idea - the seven good races, or what-have-you: Humans, elves, gnomes, halflings, arakocra, fairies, tabaxi. No mention of kenku or orcs or anything like that - he hated 'em more than anything. Tieflings, he spoke like they were cattle."
+	Madrigal Everett House Lydia
+		Think "Mary Poppins"
+		"An woman opens the door, with straight silky-black hair dropping down the length of her back. You can't see her ears, covered by her hair but her facial structure and clear complexion are distinctly elven. She wears a long suffragette gown, and a long jacket with huge pockets. 'Good afternoon.' she says."
+		Dr. Calvaria
+			"He always did creep me out. The way he looked at me... right through me, like I was some kind of animal."
+			"We were right at section 51 when it was active. We were conscripted as part of Northern Silent and later moved to the Section 51 camp as the war went on. It was there we saw the fruits of our labor. And realized what Calvaria had planned."
+Susan Sailwright
+	"Susie on High"

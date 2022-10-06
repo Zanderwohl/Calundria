@@ -19,7 +19,7 @@ Foe: Glenn Dixon
 Friends:
 	Merchants:
 		Brenda Freeman
-			Brenda is a silversmith on Jeweler's row who lost a hand after accidentally pouring silver over it. She still works as she can with one hand, but cannot run her own shopfront as the rich patrons find her injury unsightly. She cannot afford the magic healing required to restore her hand, but is working on a mechanical replacement.
+			Brenda is a silversmith on Jeweler's row who owns the Silver Thread, and lost a hand after accidentally pouring silver over it. She still works as she can with one hand, but cannot run her own shopfront as the rich patrons find her injury unsightly. She cannot afford the magic healing required to restore her hand, but is working on a mechanical replacement.
 	Irregulars:
 		Frank Maxwell
 			Former investment banker who was caught in corperate espionage, Frank now day drinks and observes. Very closely. Having an eye for detail (actually, an Eye of Scrying) you can usually find something interesting goings-on from Frank... so long as he hasn't been using all his spell slots being a peeping tom...

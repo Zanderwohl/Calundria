@@ -43,3 +43,7 @@
 
 
 Rivers: Allendale, Beaverdale
+
+-Frontier
+	Location: Egalia
+	
