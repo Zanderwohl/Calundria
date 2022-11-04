@@ -46,4 +46,25 @@ Rivers: Allendale, Beaverdale
 
 -Frontier
 	Location: Egalia
+	Locales: Strongwood
+
+-Strongwood
+	Location: Frontier
+	Two miles beneath you, a small frontier town sits nestled between the forest and the grasslands: Strongwood. Like many frontier towns, a wooden fence surrounds the town, a hallmark of the territorial conflict so common to the frontier. The original fort rises prominently in the town, barracks surrounded by reinforced walls - no doubt the last refuge of the populace in case the gates should fall.
+	Some horses and carts make their way around the town, though no mechanical carriages or trains are in sight. From as high as you are, you can still see two markets and a town square with a burbling fountain.
+
+-RRS Garretford
+	WREF RRS-677
+	Crew: 121
+	Capacity: 240
+	Length: 182m
+	Gross Tonnage: 15,000
+
+-RRS Ubiquity
+	WREF RSS-1022
+	Flagship of the fleet
+	Crew: 2,100
+	Capacity: 8,900
+	Length: 360m
+	Gross Tonnage: 237,000
 	
