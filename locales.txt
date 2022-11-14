@@ -55,16 +55,42 @@ Rivers: Allendale, Beaverdale
 
 -RRS Garretford
 	WREF RRS-677
+	Darby-class
 	Crew: 121
 	Capacity: 240
 	Length: 182m
 	Gross Tonnage: 15,000
 
 -RRS Ubiquity
-	WREF RSS-1022
-	Flagship of the fleet
+	WREF RRS-1022
+	International-class
+		Flagship of the fleet
+		Went missing on 1070 December 6th
 	Crew: 2,100
 	Capacity: 8,900
 	Length: 360m
 	Gross Tonnage: 237,000
-	
+
+-RNS Valor
+	WNF RNS-1145
+	Tumult-class
+	Crew: 3,300
+	Capacity: 3,400
+	Length: 290m
+	Gross Tonnage: 183,900
+
+-RRS Angel
+	WREF RRS-182
+	Lister-class
+	Crew: 70
+	Capacity: 1,040
+	Length: 104m
+	Gross Tonnage: 8,600
+
+-RSS Heavenreich
+	WREF RRS-1023
+	International-class
+	Crew: 2,100
+	Capacity: 8,900
+	Length: 360m
+	Gross Tonnage: 237,000

@@ -8,8 +8,19 @@ Known Locations:
 	Dr. Forstater - Living with the Stinging Nettles
 Dead:
 	Dr. Hocking
+	
+	400k dragonshards:200 megajoules
+	250,000 embryos per vial
 
-Session 2 Headlines (December 9th):
+Session 1 (1070 December 8th):
+	Dr. Vargas arrives in Laodicea from Wynnewood via the Trans-Oceanic Arial-Cable Railway
+		He gives a small package wrapped in newspaper and string to the porter then promptly disappears.
+
+	Party hired by the Stinging Nettles (mercenary group based in Laodicea)
+	
+	Breaking into Dr. Forstater's laboratory to find clues relating to the disappearance of these scientists.
+
+Session 2 (1070 December 9th):
 	Kensington, Wynnewood was attacked by what onlookers describe as a 'mechanized tornado' - the whirling machine tunneled into the Kensington Power Substation and unearthed the power shards, stripping them from their housings and making off in mere moments. The city has been left without power since. Authorities are trying to determine the origins and destination of this tremendous machine - locals have produced several photographs, none of which have shed light on the situation. Investigation is ongoing.
 	
 	The Royal Research Fleet has reported the disappearance of their flagship RRS Ubiquity - the ship has seemingly disappeared from the surface of the ocean. The ship was last seen heading toward No Man's Land, with a final transmission around 1800 hours on December 6th. The Sutt claim the Ubiquity's heading would have placed it in violation of the treaty between Sutton, Wynnewood, and Midea, but have been unable to produce proof that the ship crossed into No Man's Land. The RSS Heavenreich has been dispatched to search for signs of wreckage, or hopefully make contact with the missing ship.
@@ -20,12 +31,12 @@ Session 2 Headlines (December 9th):
 
 "Now hear this, now hear this. All RSS Garrettford personnel are issued a general recall. Message repeats, all RSS Garrettford personnel are issued a general recall."
 
-Session 3 Headlines (December 10th):
+Session 3 Headlines (1070 December 10th):
 	Robot Attack! Yesterday evening, hundreds of flying mechanical men descended upon Laodicea, unearthing the many power stations distributed throughout the city. The robots made off with thousands of shards, leaving much of the city without power. Security and police forces work on restoring order the the city.
 	
 	Dr. Calvaria's base is under the ruins of the city of Aberdeen in the Rhineland
 
-Session 4 (December 11th):
+Session 4 (1070 December 11th):
 	Lucia
 		She sleeps sound most nights but losing her shop was pretty painful. I imagine sometimes she remembers late at night a time when she didn't have to worry about food, and she was working alongside Brenda before their shops closed. I think her nightmare would be working the shop late into the night and noticing that no one's there. She checks outside and the streetlights are on but no one's around. She check Brenda's room and it's empty, she looks back at her tools and the workbech is clean, but bare. Like she never had started a shop in the first place.
 	
@@ -37,24 +48,46 @@ Session 4 (December 11th):
 		Two figures - a younger Silas and Dorian
 		Silas figured out what the mechanisms are for
 	
-Session 6 (December 12th):
+Session 6 (1070 December 12th):
 	In your dream, you see a vast room with rows and rows of clockwork machinery.
 	
+	Side-session, visiting the Aaracokra
+
+Session 7 (1070 December 13th):
+	Adelaide:
+		You see in front of you a tall figure, face shrouded by a hood, holding a scythe in one hand. [Death]
+			"Hello Adelaide."
+			"You've been getting into trouble lately, haven't you? Dabbling with Death, are we?"
+			"I know nothing of justice. But do know this: you're getting into things beyond yourself.
+			"I went through your checkout history at the Freedom Library in Laodicea. Reading up on necromancy, are we?"
+			"Librarians tend to cooperate with me. Especially when I'm so able to get my hands on valuable and old books. Speaking of-"
+			He pulls a small leather book from underneath his baggy robes.
+			"I believe this belonged to your brother. Burned to a crisp in the accident. But I'm done reading it, so I thought I'd give it back to you."
+			You feel a geas fall over you: you will recall all information you received here but be unable to describe who you got it from.
+		You wake up, feeling disoriented. In your hands is the small leather book.
+		Paging through the book, you recognize your brother's handwriting. It seems to contain a number of entries by date. It's one of his journals.
+
 	Two miles beneath you, a small frontier town sits nestled between the forest and the grasslands: Strongwood. Like many frontier towns, a wooden fence surrounds the town, a hallmark of the territorial conflict so common to the frontier. The original fort rises prominently in the town, barracks surrounded by reinforced walls - no doubt the last refuge of the populace in case the gates should fall.
 	Some horses and carts make their way around the town, though no mechanical carriages or trains are in sight. From as high as you are, you can still see two markets and a town square with a burbling fountain. There seems to be some kind of gathering or event in the town square.
 	
 	Heartland Party
 		Vincent Rockwell
+			Isaac Cyrus Overton
 		
 		You walk into the town square and see some kind of rally. The stage is set up with tall banners behind and the four gods of Egalia in painting enshrined there
 		Expansion, the westward god, is placed more prominently than the others
 		A crowd jostles around the stage, restless. Some seem enraptured by the words they hear. some seem electrified. Some seem confused. Others are just hanging around trying to understand what this is all about.
 		
 		Egalia is a country of many races, they say. So it is, so it is. And Egalia is a country of many nations united, they say. So it is. But when did Egalia become a country with no standards?
-		The rich out on the coasts want to open the doors wide for every type of person. and of course, I do believe in a chance for everyone. I myself have met many noble and learned Acrocokra since moving to Strongwood.
+		The rich out on the coasts want to open the doors wide for every type of person. and of course, I do believe in a chance for everyone. I myself have met many noble and learned Aaracokra since moving to Strongwood.
 		But not all nations have the same values as we do... they would love nothing more than to plant a seditious and lazy element amongst our populous...
 		And we must see plainly, brothers and sisters, that our values remain. That we remain a good and prosperous nation. And we cannot do that by allowing just anything... if we truly love our nation, we will love what is best for it. If you truly love your family, would you not feed it the best food? if a Shopkeep truly loves his business, will he not hire only the best workers? Would he hire a snake? Would he hire a felon? Would he hire a thief?
-		No! And it must be the same for our beloved household, Egalia. 
-
+		No! And it must be the same for our beloved household, Egalia.
+		
+		Some think that Egalia has to be gentle, cowering behind our noble values. I don't accept that. Did Midea cower when Sutton marched on their borders? Of course not. They developed defenses the likes of which have not been seen before or since! And there are barbarians on the border now... will Egalia rise to the occasion?
+		
 	Jillian and Jessica Davenport
 		You notice two women about the age of Silas. One is fairly tall for a human woman generous in both fat and muscle, one is about average height and unremarkable build, except her round, rosy face. Both have grey hair.
+
+Session 8 (1070 December 14th):
+	
